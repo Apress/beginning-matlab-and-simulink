@@ -1,0 +1,1 @@
+pie3(1:6,H, {'A', 'B', 'C', 'D', 'E','F'}), title('Share Holders')

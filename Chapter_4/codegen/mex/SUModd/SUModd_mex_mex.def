@@ -1,0 +1,9 @@
+LIBRARY SUModd_mex.mexw64
+EXPORTS
+mexFunction
+mexfilerequiredapiversion
+emlrtMexFcnProperties
+SUModd
+SUModd_initialize
+SUModd_terminate
+SUModd_atexit
